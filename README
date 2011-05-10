@@ -28,10 +28,10 @@ arguments: what:[String, Symbol], args:Hash
 *logout*
 
 EXAMPLE:
-----------
+--------
   require 'nerdz'
 
-  def hr; puts(?= \* 20); end
+  def hr; puts(?= * 20); end
 
   browser = Nerdz.new
   browser.login('user', :password)
