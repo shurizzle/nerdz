@@ -27,7 +27,7 @@ arguments: what:[String, Symbol], args:Hash
 
 *logout*
 
-_EXAMPLE_:
+EXAMPLE:
 ----------
   require 'nerdz'
 
